@@ -1,0 +1,22 @@
+name: campus_event_explorer
+description: Offline campus events, favorites and participation with MVC.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ^3.13.2
+dependencies:
+  cupertino_icons: ^1.0.8
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+  fonts:
+    - family: Outfit
+      fonts:
+        - asset: assets/fonts/Outfit.ttf

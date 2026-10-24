@@ -1,0 +1,4 @@
+Campus geometric event illustrations
+Created for Campus Event Explorer using tools/create_assets.swift, with Codex assistance, 2026.
+These original geometric illustrations may be used, modified and redistributed
+without restriction. No third-party photographs or trademarks are included.
