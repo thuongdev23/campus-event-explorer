@@ -11,6 +11,7 @@ Discover six fictional campus events, save favorites and manage participation.
 
 **My Contributions to the Project:**
 - Set up and configured the Flutter project using Visual Studio Code.
+- Define the code with MVC Principle (with model, view,controller), for easier debugging and testing later.
 - Debugged and fixed coding errors to improve application functionality and stability.
 - Implemented animation effects for tab navigation to create smoother transitions and improve the user experience.
 - Tested and refined the application to ensure smooth navigation and proper functionality.
@@ -120,17 +121,13 @@ Testing checks in `test/widget_test.dart`:
 
 ## Known limitations and submission
 
-Session state resets on restart, as allowed by the assignment. Events and bookings
-are fictional. No APK or signed iOS build is included. Device/emulator testing is
-still recommended in addition to widget tests. SDK verification evidence is recorded below.
-
-Before submission: complete the team table, create an accessible repository/archive link and submit it through ESTUOYS before
-the deadline. No repository upload or ESTUOYS submission is performed by this project.
-`build/` and `.dart_tool/` are ignored and excluded from the source archive.
+- Session state resets on restart, as allowed by the assignment. 
+- Events and bookings are fictional. 
+- No APK or signed iOS build is included. - Device/emulator testing is still recommended in addition to widget tests. SDK verification evidence is recorded below. 
+- The app still doesnt the notification system for remind users about the event time. 
 
 ## Actual validation SDK output
 
-Final static analysis and all five automated tests passed using the required SDK.
 The four previews were generated with this version:
 
 ```text
